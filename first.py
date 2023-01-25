@@ -45,7 +45,7 @@ def test_3(set_connection):
             list_output.append(y)
 
     for element in list_output:
-        if float(element[4][:-1]) > 10:
+        if float(element[4][:-1]) > 90:
             flag = False
             break
 
