@@ -1,0 +1,187 @@
+
+2023-01-25 11:20:35.663084	:-
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           299M  1.6M  297M   1% /run
+/dev/sda3        12G  9.2G  1.6G  86% /
+tmpfs           1.5G     0  1.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+/dev/sda2       512M  5.3M  507M   2% /boot/efi
+tmpfs           299M  2.4M  296M   1% /run/user/1000
+
+
+
+2023-01-25 11:20:54.098666	:-
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           299M  1.6M  297M   1% /run
+/dev/sda3        12G  9.2G  1.6G  86% /
+tmpfs           1.5G     0  1.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+/dev/sda2       512M  5.3M  507M   2% /boot/efi
+tmpfs           299M  2.4M  296M   1% /run/user/1000
+
+
+
+2023-01-25 11:21:16.955354	:-
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           299M  1.6M  297M   1% /run
+/dev/sda3        12G  9.2G  1.5G  86% /
+tmpfs           1.5G     0  1.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+/dev/sda2       512M  5.3M  507M   2% /boot/efi
+tmpfs           299M  2.4M  296M   1% /run/user/1000
+
+
+
+2023-01-25 11:21:21.331234	:-
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           299M  1.6M  297M   1% /run
+/dev/sda3        12G  9.2G  1.5G  86% /
+tmpfs           1.5G     0  1.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+/dev/sda2       512M  5.3M  507M   2% /boot/efi
+tmpfs           299M  2.4M  296M   1% /run/user/1000
+
+
+
+2023-01-25 11:23:31.973327	:-
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           299M  1.6M  297M   1% /run
+/dev/sda3        12G  9.1G  1.6G  86% /
+tmpfs           1.5G     0  1.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+/dev/sda2       512M  5.3M  507M   2% /boot/efi
+tmpfs           299M  2.4M  296M   1% /run/user/1000
+
+
+
+2023-01-25 12:36:10.697965	:-
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           299M  1.5M  297M   1% /run
+/dev/sda3        12G  9.0G  1.8G  84% /
+tmpfs           1.5G     0  1.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+/dev/sda2       512M  5.3M  507M   2% /boot/efi
+tmpfs           299M  2.4M  296M   1% /run/user/1000
+
+
+
+2023-01-25 12:46:57.741584	:-
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           299M  1.5M  297M   1% /run
+/dev/sda3        12G  9.0G  1.8G  84% /
+tmpfs           1.5G     0  1.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+/dev/sda2       512M  5.3M  507M   2% /boot/efi
+tmpfs           299M  2.4M  296M   1% /run/user/1000
+
+
+
+2023-01-25 12:48:29.954391	:-
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           299M  1.5M  297M   1% /run
+/dev/sda3        12G  9.0G  1.8G  84% /
+tmpfs           1.5G     0  1.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+/dev/sda2       512M  5.3M  507M   2% /boot/efi
+tmpfs           299M  2.4M  296M   1% /run/user/1000
+
+
+
+2023-01-25 15:14:46.195797	:-
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           299M  1.5M  297M   1% /run
+/dev/sda3        12G  9.0G  1.8G  84% /
+tmpfs           1.5G     0  1.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+/dev/sda2       512M  5.3M  507M   2% /boot/efi
+tmpfs           299M  2.4M  296M   1% /run/user/1000
+
+
+
+2023-01-31 16:05:16.367510	:-
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           299M  1.5M  297M   1% /run
+/dev/sda3        12G  8.8G  2.0G  83% /
+tmpfs           1.5G     0  1.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+/dev/sda2       512M  5.3M  507M   2% /boot/efi
+tmpfs           299M  2.4M  296M   1% /run/user/1000
+
+
+
+2023-01-31 18:04:32.132812	:-
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           299M  1.5M  297M   1% /run
+/dev/sda3        12G  8.8G  2.0G  83% /
+tmpfs           1.5G     0  1.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+/dev/sda2       512M  5.3M  507M   2% /boot/efi
+tmpfs           299M  2.4M  296M   1% /run/user/1000
+
+
+
+2023-01-31 18:04:54.681691	:-
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           299M  1.5M  297M   1% /run
+/dev/sda3        12G  8.8G  2.0G  83% /
+tmpfs           1.5G     0  1.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+/dev/sda2       512M  5.3M  507M   2% /boot/efi
+tmpfs           299M  2.4M  296M   1% /run/user/1000
+
+
+
+2023-01-31 18:06:18.239734	:-
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           299M  1.5M  297M   1% /run
+/dev/sda3        12G  8.8G  2.0G  83% /
+tmpfs           1.5G     0  1.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+/dev/sda2       512M  5.3M  507M   2% /boot/efi
+tmpfs           299M  2.4M  296M   1% /run/user/1000
+
+
+
+2023-01-31 18:06:43.314992	:-
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           299M  1.5M  297M   1% /run
+/dev/sda3        12G  8.8G  2.0G  83% /
+tmpfs           1.5G     0  1.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+/dev/sda2       512M  5.3M  507M   2% /boot/efi
+tmpfs           299M  2.4M  296M   1% /run/user/1000
+
+
+
+2023-01-31 18:09:57.338281	:-
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           299M  1.5M  297M   1% /run
+/dev/sda3        12G  8.8G  2.0G  83% /
+tmpfs           1.5G     0  1.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+/dev/sda2       512M  5.3M  507M   2% /boot/efi
+tmpfs           299M  2.4M  296M   1% /run/user/1000
+
+
+
+2023-01-31 18:31:49.818250	:-
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           299M  1.5M  297M   1% /run
+/dev/sda3        12G  8.8G  2.0G  83% /
+tmpfs           1.5G     0  1.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+/dev/sda2       512M  5.3M  507M   2% /boot/efi
+tmpfs           299M  2.4M  296M   1% /run/user/1000
+
+
+
+2023-01-31 18:45:13.884999	:-
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           299M  1.5M  297M   1% /run
+/dev/sda3        12G  8.8G  2.0G  83% /
+tmpfs           1.5G     0  1.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+/dev/sda2       512M  5.3M  507M   2% /boot/efi
+tmpfs           299M  2.4M  296M   1% /run/user/1000
+
+
