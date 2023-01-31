@@ -1,0 +1,128 @@
+
+2023-01-25 11:17:35.387117	:-Linux 5.15.0-58-generic (tanmay-VirtualBox) 	25/01/23 	_x86_64_	(1 CPU)
+
+11:17:35 AM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+11:17:35 AM IST  all    1.53    1.01    0.68    0.13    0.00    0.14    0.00    0.00    0.00   96.51
+
+2023-01-25 11:20:35.238567	:-
+Linux 5.15.0-58-generic (tanmay-VirtualBox) 	25/01/23 	_x86_64_	(1 CPU)
+
+11:20:35 AM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+11:20:35 AM IST  all    2.06    2.47    1.13    0.21    0.00    0.16    0.00    0.00    0.00   93.97
+
+
+
+2023-01-25 11:20:53.640682	:-
+Linux 5.15.0-58-generic (tanmay-VirtualBox) 	25/01/23 	_x86_64_	(1 CPU)
+
+11:20:53 AM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+11:20:53 AM IST  all    2.12    2.59    1.16    0.22    0.00    0.16    0.00    0.00    0.00   93.75
+
+
+
+2023-01-25 11:21:16.513493	:-
+Linux 5.15.0-58-generic (tanmay-VirtualBox) 	25/01/23 	_x86_64_	(1 CPU)
+
+11:21:16 AM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+11:21:16 AM IST  all    2.18    2.78    1.21    0.22    0.00    0.16    0.00    0.00    0.00   93.45
+
+
+
+2023-01-25 11:21:20.765666	:-
+Linux 5.15.0-58-generic (tanmay-VirtualBox) 	25/01/23 	_x86_64_	(1 CPU)
+
+11:21:20 AM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+11:21:20 AM IST  all    2.19    2.82    1.22    0.22    0.00    0.16    0.00    0.00    0.00   93.39
+
+
+
+2023-01-25 11:23:31.554340	:-
+Linux 5.15.0-58-generic (tanmay-VirtualBox) 	25/01/23 	_x86_64_	(1 CPU)
+
+11:23:31 AM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+11:23:31 AM IST  all    2.67    3.67    1.58    0.28    0.00    0.18    0.00    0.00    0.00   91.62
+
+
+
+2023-01-25 12:36:10.396095	:-
+Linux 5.15.0-58-generic (tanmay-VirtualBox) 	25/01/23 	_x86_64_	(1 CPU)
+
+12:36:10 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+12:36:10 PM IST  all    1.65    2.83    1.03    0.17    0.00    0.11    0.00    0.00    0.00   94.21
+
+
+
+2023-01-25 12:46:57.352839	:-
+Linux 5.15.0-58-generic (tanmay-VirtualBox) 	25/01/23 	_x86_64_	(1 CPU)
+
+12:46:57 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+12:46:57 PM IST  all    1.53    2.60    0.95    0.16    0.00    0.11    0.00    0.00    0.00   94.66
+
+
+
+2023-01-25 12:48:29.718459	:-
+Linux 5.15.0-58-generic (tanmay-VirtualBox) 	25/01/23 	_x86_64_	(1 CPU)
+
+12:48:29 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+12:48:29 PM IST  all    1.51    2.57    0.94    0.16    0.00    0.11    0.00    0.00    0.00   94.71
+
+
+
+2023-01-25 15:14:45.849782	:-
+Linux 5.15.0-58-generic (tanmay-VirtualBox) 	25/01/23 	_x86_64_	(1 CPU)
+
+03:14:45 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+03:14:45 PM IST  all    0.85    1.43    0.52    0.09    0.00    0.06    0.00    0.00    0.00   97.05
+
+
+
+2023-01-31 16:05:16.051633	:-
+Linux 5.15.0-58-generic (tanmay-VirtualBox) 	31/01/23 	_x86_64_	(1 CPU)
+
+04:05:16 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+04:05:16 PM IST  all    2.23    0.91    1.38    0.11    0.00    0.04    0.00    0.00    0.00   95.32
+
+
+
+2023-01-31 18:09:57.116796	:-
+Linux 5.15.0-58-generic (tanmay-VirtualBox) 	31/01/23 	_x86_64_	(1 CPU)
+
+06:09:57 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+06:09:57 PM IST  all    1.69    0.32    0.76    0.04    0.00    0.01    0.00    0.00    0.00   97.19
+
+
+
+2023-01-31 18:28:44.986870	:-
+Linux 5.15.0-58-generic (tanmay-VirtualBox) 	31/01/23 	_x86_64_	(1 CPU)
+
+06:28:44 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+06:28:44 PM IST  all    1.60    0.29    0.71    0.04    0.00    0.01    0.00    0.00    0.00   97.34
+
+
+
+2023-01-31 18:28:45.403068	:-
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           299M  1.5M  297M   1% /run
+/dev/sda3        12G  8.8G  2.0G  83% /
+tmpfs           1.5G     0  1.5G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+/dev/sda2       512M  5.3M  507M   2% /boot/efi
+tmpfs           299M  2.4M  296M   1% /run/user/1000
+
+
+
+2023-01-31 18:31:49.407958	:-
+Linux 5.15.0-58-generic (tanmay-VirtualBox) 	31/01/23 	_x86_64_	(1 CPU)
+
+06:31:49 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+06:31:49 PM IST  all    1.58    0.29    0.70    0.04    0.00    0.01    0.00    0.00    0.00   97.38
+
+
+
+2023-01-31 18:45:12.998845	:-
+Linux 5.15.0-58-generic (tanmay-VirtualBox) 	31/01/23 	_x86_64_	(1 CPU)
+
+06:45:12 PM IST  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+06:45:12 PM IST  all    1.49    0.27    0.66    0.03    0.00    0.01    0.00    0.00    0.00   97.53
+
+
